@@ -35,4 +35,4 @@ evaluate the model and get the accuracy
 
 visualize the confusion matrix
 
-## Finally build a predictive system for the user if they want test the model
+## Finally build a predictive system for the user if they want to test the model
